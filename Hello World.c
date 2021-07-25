@@ -2,6 +2,7 @@
 
 int main()
 {
-    printf("Hello World!");
+    /* Enter your code here. Read input from STDIN. Print output to STDOUT */
+    printf("annyeong, World!");
     return 0;
 }
